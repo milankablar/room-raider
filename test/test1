@@ -1,0 +1,19 @@
+5
+0
+0 1 east
+0 2 south
+0 3 west
+0 2 north
+3 1 east
+4 1 north
+4 1 south
+*
+0 exit MazeExit
+4 exit OtherMazeExit
+1 key MazeKey
+1 key DifferentMazeKey
+0 treasure BronzeCoin
+0 treasure GoldCoin
+2 teleporter Teleporter2
+1 teleporter Teleporter1
+-

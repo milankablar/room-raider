@@ -1,0 +1,12 @@
+5
+0
+0 1 east
+1 2 east
+2 3 east
+3 4 east
+*
+0 key MazeKey
+0 teleporter Teleporter1
+0 teleporter Teleporter2
+4 exit MazeExit
+-
